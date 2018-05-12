@@ -1,0 +1,46 @@
+_repo: Thoughts-on-Life-and-ReligionProfessor-Max-M-ller_45122
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45122-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - Muller, F. Max (Friedrich Max)
+    - Mueller, Friedrich Max
+    - Müller, Max
+    - F. Max Müller
+    - Müller, Friedrich Max
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+  editor:
+    agent_name: G. A. M. (Georgina Adelaide Müller)
+    aliases:
+    - GAM (Georgina Adelaide Müller)
+    - Muller, Georgina Adelaide
+    - Grenfell, Georgina Adelaide
+    - Müller, Georgina Adelaide
+    gutenberg_agent_id: '42922'
+    url: http://www.gutenberg.org/2009/agents/42922
+description: ''
+gutenberg_issued: '2014-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology'
+- !lcc 'BR'
+- !lcsh 'Religion'
+- !lcsh 'Life'
+- !lcsh 'Philosophy'
+title: "Thoughts on Life and Religion\r\nAn Aftermath from the Writings of The Right\
+  \ Honourable Professor Max Müller"
+url: http://www.gutenberg.org/ebooks/45122
